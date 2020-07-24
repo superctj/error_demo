@@ -1,6 +1,6 @@
 # Demo
 
-A minimum example to reproduce `RuntimeError: element 0 of tensors does not require grad and does not have a grad_fn` when using IBM ART.
+A minimal example to reproduce `RuntimeError: element 0 of tensors does not require grad and does not have a grad_fn` when using IBM ART.
 
 ## Experiment Setting
 * Dataset: CIFAR-10   
