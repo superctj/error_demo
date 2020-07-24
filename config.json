@@ -1,0 +1,8 @@
+{
+    "data_dir": "./data/",
+    "gpu_id": 0,
+    "num_random_init": 1,
+    "num_steps": 20,
+    "epsilon": 0.031,
+    "step_size": 0.007
+}
